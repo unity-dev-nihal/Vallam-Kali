@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2f886856f41c1de4fba77c266fe4e4b2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213198
+  packageName: Unity Terrain - HDRP Demo Scene
+  packageVersion: 1.0.3
+  assetPath: Assets/TerrainDemoScene_HDRP/Settings/HDRP/HDRP-LowQuality Pipeline
+    Asset.asset
+  uploadId: 727864
